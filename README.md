@@ -128,8 +128,4 @@ docker-compose up --build
 
 ## Contacto
 
-Se quiser colaborar ou tiver sugestões, abra uma issue no repositório ou contacte `seu-email@exemplo.com`.
-
-## Licença
-
-Escolha a licença apropriada (por exemplo, MIT). Adicione o ficheiro `LICENSE` ao repositório.
+Se quiser colaborar ou tiver sugestões, abra uma issue no repositório ou contacte `joselopes.m.j@gmail.com`.
